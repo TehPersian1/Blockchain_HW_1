@@ -1,8 +1,6 @@
-# README
+# PROJECT 1 - Scrooge Coin
 
 CPSC 459 BLOCKCHAIN TECHNOLOGIES
-
-PROJECT 1 - Scrooge Coin
 
 ## TEAM MEMBERS:
 
